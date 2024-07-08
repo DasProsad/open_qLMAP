@@ -1,0 +1,8 @@
+{
+    "type": "esp32",
+    "version": "1.0.2",
+    "host": "www.qbyte.store",
+    "port": 443,
+    "bin": "/qbyte_bin/main.ino.bin",
+    "spiffs": "/qbyte_bin/main.spiffs.bin"
+}
